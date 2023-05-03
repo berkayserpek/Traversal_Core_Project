@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface INewsletter : IGenericDAL<Newsletter>
+    public interface IFeatureDAL : IGenericDAL<Feature>
     {
     }
 }
